@@ -1,4 +1,4 @@
-baseURL = "https://jav-car-1971.github.io/english/"
+baseURL = "https://coperniciodev.github.io/english/"
 languageCode = "en"
 title = "New Site"
 theme = "coder"
@@ -7,9 +7,9 @@ enableRobotsTXT = true
 paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes muchos
 
 [params]
-    author = "JavCar1971"
+    author = "copernicio.dev"
     info = "dev"
-    description = "JavCar1971"
+    description = "copernicio.dev"
     colorscheme = "auto"
 
 [menu]
