@@ -1,13 +1,13 @@
 baseURL = "https://jav-car-1971.github.io/english/"
 languageCode = "en"
-title = "Mi Nuevo Sitio"
+title = "New Site"
 theme = "coder"
 contentDir = "content/en"
 enableRobotsTXT = true
 paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes muchos
 
 [params]
-    author = "Javier Caram"
+    author = "JavCar1971"
     info = "dev"
     description = "JavCar1971"
     colorscheme = "auto"
@@ -18,6 +18,6 @@ paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes m
     url = "/posts/"
     weight = 1
   [[menu.main]]
-    name = "Sobre mí"
+    name = "About"
     url = "/about/"
     weight = 2
