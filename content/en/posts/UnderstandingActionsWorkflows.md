@@ -33,3 +33,21 @@ jobs:
         run: mkdocs build
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
+```
+
+### Key Components of a Job
+
+The example above highlights the most important parts of a job:
+
+*   **runs-on**: This key specifies the type of machine or environment the job will run on. Common options include ubuntu-latest, windows-latest, and macos-latest. GitHub provides these hosted runners, but you can also use self-hosted runners.
+    
+*   **steps**: This is a list of all the individual commands or actions that a job will execute. Each step begins with a hyphen and can either run a command using run: or use a pre-built action with uses:.
+    
+*   **name**: An optional but highly recommended key that provides a descriptive name for the job, which makes it easier to track in the GitHub Actions dashboard.
+    
+*   **uses**: This is used to call a pre-defined action from the GitHub Marketplace. The @v4 indicates a specific version of the action.
+    
+*   **run**: This key allows you to execute shell commands directly on the runner.
+    
+
+By structuring your workflow into logical jobs, you can create robust, maintainable, and scalable automation pipelines that handle all the tasks for your static site deployment.
