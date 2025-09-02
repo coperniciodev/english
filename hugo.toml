@@ -1,0 +1,43 @@
+baseURL = "https://jav-car-1971.github.io/uno/"
+languageCode = "es"
+title = "Mi Nuevo Sitio"
+theme = "coder"
+defaultContentLanguage = "es"
+enableRobotsTXT = true
+paginate = 5 # He añadido esto para que la lista de posts se pagine si tienes muchos
+
+[params]
+    author = "Javier Caram"
+    info = "Desarrollador y Creador"
+    description = "El sitio de Javier Caram."
+    colorscheme = "auto"
+
+[languages]
+  [languages.es]
+    weight = 1
+    languageName = "Español"
+    contentDir = "content/es"
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Blog"
+        url = "/posts/"  # <-- CORREGIDO
+        weight = 1
+      [[languages.es.menu.main]]
+        name = "Sobre mí"
+        url = "/about/"  # <-- CORREGIDO
+        weight = 2
+  
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    contentDir = "content/en"
+  
+  [languages.fr]
+    weight = 3
+    languageName = "Français"
+    contentDir = "content/fr"
+  
+  [languages.pt]
+    weight = 4
+    languageName = "Português"
+    contentDir = "content/pt"
