@@ -2,6 +2,7 @@
 title: "The difference between the Present Simple and the Present Continous"
 summary: "Today we’ll be taking a close look at the present tenses – specifically the difference between the Present Simple and the Present Continous in the context of business." 
 date: 2025-09-04
+categories: ["Grammar", "Business"]
 tags: ["Present Simple", "Present Continuous", "Grammar", "Business"]
 draft: false
 ---
@@ -104,3 +105,4 @@ Opt for the Present Continuous when discussing actions happening now, temporary 
 The context and the intended meaning are essential. Always consider the situation and the meaning you want to convey when choosing between these two tenses.
 
 Fuente: (https://open.spotify.com/episode/4q7LmzNGwvCCWUDvURQiLs)[Busines Englis Made Easy - Episode 2]
+
