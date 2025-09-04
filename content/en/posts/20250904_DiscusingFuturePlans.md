@@ -75,4 +75,5 @@ In an update meeting, you can announce, We’re launching the new marketing camp
 
 As you navigate through your business day, you’ll likely use all these forms interchangeably, depending on the context. The key is to understand the subtle differences in intention and planning each form conveys.
 
-Fuente: (https://lvlinguistics.be/fr/episode3)[Busines Englis Made Easy - Episode 03]
+Source: [Busines Englis Made Easy - Episode 03](https://lvlinguistics.be/fr/episode3)
+
