@@ -1,6 +1,6 @@
 baseURL = "https://coperniciodev.github.io/english/"
 languageCode = "en"
-title = "New Site"
+title = "english innmersive blog" # Actualizado 8/9/2025
 theme = "coder"
 contentDir = "content/en"
 enableRobotsTXT = true
